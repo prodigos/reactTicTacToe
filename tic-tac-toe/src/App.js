@@ -1,10 +1,11 @@
 import "./App.css";
-import Row from "./Components/Row";
+import Game from './Components/Game';
 
 function App() {
   return (
     <div className="App">
-      <Row />
+    <Game/>
+      
     </div>
   );
 }
